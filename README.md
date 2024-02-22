@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I'm a Cornell University Sophomore Studying Computer Science and Economics. I have done Software Engineering for the Ruminant Farm Systems Model with the USDA and been a Teaching Assistant for CS2800 (Discrete Structures).
+- I'm a Cornell University Sophomore Studying Computer Science and Economics. I'm currently working with Professor Ken Birman on the Cascade system where I predominately write low-latency C++. Previously, I have done Software Engineering for the Ruminant Farm Systems Model with the USDA and been a Teaching Assistant for CS2800 (Discrete Structures).
 - Some of the things I'm interested in are compilers, embedded systems programming, algorithms, programming languages, functional programming, statistics, game theory, behavioral economics, and econometrics.
 - I'm still figuring out my exact career path, but I'm mainly interested in jobs in quantitative analysis/development and high-frequency trading since they combine the two subjects I'm most interested in.
 - I see myself as being more inclined to low-level programming, using languages like C, and C++, and I'm not afraid of Assembly when necessary. But I also really enjoy using Python, Java, and OCaml among others.
