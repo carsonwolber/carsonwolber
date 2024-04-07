@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 - I'm mainly interested in jobs in high-frequency trading and systems engineering.
 - I'm most interested in low-level programming, using languages like C, and C++, And sometimes Assembly / Verilog. But I also enjoy using Python, Java, and OCaml among others.
 - Feel free to reach out if you'd like to work together on something! I can be reached at ctw54@cornell.edu
+
+* Private repository code is available upon request by recruiters. These repositories are private either to preserve academic integrity for class projects or to protect the proprietary technology I've built for my startup interests. A list of all relevant private repositories is regrettably not currently available as I'm revamping the portfolio site where a directory is usually kept. 
