@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I'm a Cornell University Junior Studying Computer Science and Economics. I'm currently working with Professor Ken Birman on the Cascade system where I predominately write low-latency C++. Previously, I have done Software Engineering for the Ruminant Farm Systems Model with the USDA and been a Teaching Assistant for CS2800 (Discrete Structures).
+- I'm a Cornell University Junior Studying Computer Science and Economics.
+- Currently I'm a TA for CS 3410, an Economics Research Assistant, and helping build one of the world's first collegiate liquid rocketry teams
+- I recently completed a summer internship at Meta where I learned about full stack development and fintech and capped the experience off with the "EconMetrics" project.
+- I've previously worked with Professor Ken Birman on the Cascade system where I predominately write low-latency C++. Some other things I've done in the past include software engineering for the Ruminant Farm Systems Model with the USDA and being a teaching assistant for CS2800 (discrete structures).
 - Some of the things I'm interested in are compilers, embedded systems programming, algorithms, programming languages, functional programming, statistics, game theory, behavioral economics, and econometrics.
 - I'm mainly interested in jobs in high-frequency trading and systems engineering.
 - I'm most interested in low-level programming, using languages like C, and C++, And sometimes Assembly / Verilog. But I also enjoy using Python, Java, and OCaml among others.
