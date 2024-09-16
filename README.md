@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I'm a Cornell University Junior Studying Computer Science and Economics.
-- Currently I'm a TA for CS 3410, an Economics Research Assistant, and helping build one of the world's first collegiate liquid rocketry teams
+
+- Currently, I'm a TA for CS 3410 (computer systems organization and programming), an Economics Research Assistant, and helping build one of the world's first collegiate Liquid Rocketry Teams
 - I recently completed a summer internship at Meta where I learned about full stack development and fintech and capped the experience off with the "EconMetrics" project.
 - I've previously worked with Professor Ken Birman on the Cascade system where I predominately write low-latency C++. Some other things I've done in the past include software engineering for the Ruminant Farm Systems Model with the USDA and being a teaching assistant for CS2800 (discrete structures).
-- Some of the things I'm interested in are compilers, embedded systems programming, algorithms, programming languages, functional programming, statistics, game theory, behavioral economics, and econometrics.
-- I'm mainly interested in jobs in high-frequency trading and systems engineering.
+- I'm interested in compilers, embedded systems, algorithms, statistics, game theory, behavioral economics, macroeconomics, and econometrics.
 - I'm most interested in low-level programming, using languages like C, and C++, And sometimes Assembly / Verilog. But I also enjoy using Python, Java, and OCaml among others.
 - Feel free to reach out if you'd like to work together on something! I can be reached at ctw54@cornell.edu
-
-* Private repository code is available upon request by recruiters. These repositories are private either to preserve academic integrity for class projects or to protect the proprietary technology I've built for my startup interests. A list of all relevant private repositories is regrettably not currently available as I'm revamping the portfolio site where a directory is kept. 
