@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 - I'm a Cornell University Junior Studying Computer Science and Economics.
 
-- Currently, an Economics Research Assistant, and helping build one of the world's first collegiate Liquid Rocketry Teams
-- I recently completed a summer internship at Meta where I learned about full stack development and fintech and capped the experience off with the "EconMetrics" project. I'm returning to Meta this upcoming summer(2025) as well!
+- Currently, I'm an Economics Research Assistant advised by Professor Ryan Chahrour, and am helping build one of the world's first collegiate Liquid Rocketry Teams through Liquid Propulsion at Cornell (LPC)
+- In 2024 I did my summer internship at Meta with a focus on full stack development and fintech and capped the summer off with the "EconMetrics" project. I'm returning to Meta this upcoming summer(2025) as well!
 - I've previously worked with Professor Ken Birman on the Cascade system where I predominately write low-latency C++. Some other things I've done in the past include software engineering for the Ruminant Farm Systems Model with the USDA and being a teaching assistant for CS2800 (discrete structures) and CS3410(computer systems and organization).
 - I'm interested in compilers, embedded systems, algorithms, statistics, game theory, behavioral economics, macroeconomics, and econometrics.
 - I'm most interested in low-level programming, using languages like C, and C++, And sometimes Assembly / Verilog. But I also enjoy using Python, Java, and OCaml among others.
