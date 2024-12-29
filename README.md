@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 - I'm a Cornell University Junior Studying Computer Science and Economics.
 
-- Currently, I'm an Economics Research Assistant advised by Professor Ryan Chahrour, and am helping build one of the world's first collegiate Liquid Rocketry Teams through Liquid Propulsion at Cornell (LPC)
-- In 2024 I did my summer internship at Meta with a focus on full stack development and fintech and capped the summer off with the "EconMetrics" project. I'm returning to Meta this upcoming summer(2025) as well!
-- I've previously worked with Professor Ken Birman on the Cascade system where I predominately write low-latency C++. Some other things I've done in the past include software engineering for the Ruminant Farm Systems Model with the USDA and being a teaching assistant for CS2800 (discrete structures) and CS3410(computer systems and organization).
+- Currently, I'm an Economics Research Assistant, advised by Professor Ryan Chahrour. I'm also busy helping build one of the world's first collegiate Liquid Rocketry Teams through Liquid Propulsion at Cornell (LPC) by managing the team's business and software operations. 
+- In 2024 I completed a summer internship at Meta focusing on full stack development and fintech and capped the summer off with the "EconMetrics" project (viewable on my page!). I'm also excited to return to Meta this upcoming summer(2025)!
+- In the past, I worked with Professor Ken Birman on the Cascade system where I predominately wrote low-latency C++ and tested DCCL, a novel NCCL alternative. I've also done software engineering for the Ruminant Farm Systems Model with the USDA and been a teaching assistant for CS2800 (discrete structures) and CS3410(computer systems and organization).
 - I'm interested in compilers, embedded systems, algorithms, statistics, game theory, behavioral economics, macroeconomics, and econometrics.
-- I'm most interested in low-level programming, using languages like C, and C++, And sometimes Assembly / Verilog. But I also enjoy using Python, Java, and OCaml among others.
+- I'm proficient in Python, C, C++, OCaml, Assembly(ARM), Java, and Javascript(React). But I do most of my work in Python and C. 
 - Feel free to reach out if you'd like to work together on something! I can be reached at ctw54@cornell.edu
