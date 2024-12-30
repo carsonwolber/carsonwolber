@@ -22,6 +22,3 @@ Here are some ideas to get you started:
 - I'm interested in compilers, embedded systems, algorithms, statistics, game theory, behavioral economics, macroeconomics, and econometrics.
 - I'm proficient in Python, C, C++, OCaml, Assembly(ARM), Java, and Javascript(React). But I do most of my work in Python and C. 
 - Feel free to reach out if you'd like to work together on something! I can be reached at ctw54@cornell.edu
-
-
-![Carson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carsonwolber)
