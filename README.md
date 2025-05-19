@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I'm a Cornell University Rising Senior Studying Computer Science and Economics.
+- I'm a Cornell University rising Senior Studying Computer Science and Economics.
 
 - I'm an Economics Research Assistant, advised by Professor Ryan Chahrour. I'm also helping build one of the world's first collegiate Liquid Rocketry Teams through Liquid Propulsion at Cornell (LPC) by managing the team's business and software operations. I'm also helping run a new student-run class on Software Interviewing Skills (one of many courses numbered CS1998) 
 - In 2024 I completed a summer internship at Meta focusing on full stack development and fintech and capped the summer off with the "EconMetrics" project (viewable on my page!). I'm also excited to return to Meta this upcoming summer(2025)!
