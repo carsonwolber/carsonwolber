@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 - I'm proficient in Python, C, MATLAB, C++, OCaml, Assembly(ARM), Java, and Javascript(React). But I do most of my work these days in Python and MATLAB. 
 - Feel free to reach out if you'd like to work together on something! I can be reached at ctw54@cornell.edut
 
-a
+
 
