@@ -1,19 +1,3 @@
-### Welcome!
-
-<!--
-**carsonwolber/carsonwolber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 - I'm a Cornell University Senior Studying Computer Science and Economics.
 
 
@@ -23,10 +7,10 @@ Here are some ideas to get you started:
 - I'm an Economics Research Assistant, advised by Professor Ryan Chahrour. My research interests are primarily in behavioral New Keynesian models. In practice, that means I do data manipulation/replication in MATLAB, and I read a lot of papers.
 
 
-- My main CS interests are PL/Compilers and Systems type work (OS, Distributed), but I love solving all kinds of problems.
+- My main CS interests are PL/Compilers, Systems type work (OS, Distributed), and Networks.
 
 
-- Feel free to reach out if you'd like to work together on something! I can be reached at ctw54@cornell.edu
+- I can be reached at ctw54@cornell.edu
 
 
 
